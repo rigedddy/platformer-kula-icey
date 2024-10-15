@@ -1,1 +1,1 @@
-# platformet-kula-icey
+# platformer-kula-icey
